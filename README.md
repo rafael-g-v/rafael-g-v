@@ -7,4 +7,4 @@
 👾 Hobbyist malware developer/analyst<br/>
 📚 Currently studying about: Data Analytics and Machine Learning<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-g-v)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-g-v&theme=tokyolight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
